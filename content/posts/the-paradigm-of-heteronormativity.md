@@ -7,7 +7,7 @@ description: "New Delhi: Heteronormativity is the assumption that everyone is
   orientation and that it is the only normal way to express sexuality and
   romantic attraction. This assumption is incredibly harmful as it negatively
   affects the LGBTQIA+ community."
-image: /images/uploads/pride.jpeg
+image: /images/uploads/matt-ragland-02z1i7gv4ao-unsplash.jpg
 ---
 New Delhi: Heteronormativity is the assumption that everyone is straight and that romantic and sexual relationships can only exist between a man and a woman. It assumes that heterosexuality is the default sexual orientation and that it is the only normal way to express sexuality and romantic attraction. This assumption is incredibly harmful as it negatively affects the LGBTQIA+ community.
 
