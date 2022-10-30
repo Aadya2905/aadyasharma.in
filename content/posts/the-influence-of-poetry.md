@@ -1,6 +1,6 @@
 ---
 title: The Influence of Poetry
-date: 2022-09-29T18:30:54.558Z
+date: 2022-09-30T18:30:54.558Z
 description: "New Delhi: Poetry is one of the most essential, powerful, and
   influential artistic mediums to exist. Poems are concise enough to grab
   attention on platforms like Instagram and Twitter, but long enough to gather
@@ -9,6 +9,8 @@ description: "New Delhi: Poetry is one of the most essential, powerful, and
   your feelings beautifully."
 image: /images/uploads/dsc02013.jpeg
 ---
+By Aadya Sharma
+
 New Delhi: Poetry is one of the most essential, powerful, and influential artistic mediums to exist. Poems are concise enough to grab attention on platforms like Instagram and Twitter, but long enough to gather large audiences in various cities. It has the potential to grasp and convey stories powerfully; it can act as a positive outlet and allow you to express your feelings beautifully.
 
 You have the freedom to express your truth or tell your story as well. It can also change the way people communicate, encourage critical thinking, help us see the many hues of people, or even make us discover beauty in agony.
