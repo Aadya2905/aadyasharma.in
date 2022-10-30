@@ -10,7 +10,7 @@ I had named each of them and loved them as much as I loved my dog, which is why 
 
 I didn't know or comprehend the horrors of life back then, as well as I do now, and I wish there was something I could do about it. Seeing puppies live on the side of the road enrages and distresses me because they do not deserve to live in such a harsh environment; they require safe and loving homes.
 
-![](/images/92a2024a-f3e4-440b-8c34-423996a4aaa2.jpg)
+![](/images/uploads/ef057d05-c083-4c4b-b9fc-7f2beff41bf5.jpg)
 
 Indie dogs live in the toughest conditions and are subjected to maltreatment daily. They live on the streets instead of in a safe place because people are terrified of them and they either try to hurt them or call someone to take them away.
 
