@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Aadya Sharma's Blog"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,10 +15,10 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@aadyasharma29"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showPostsOnHomepage = true
   addDot = true
   addFrame = true
   highlightColor = '#7b16ff'
@@ -42,3 +42,9 @@ pygmentsUseClasses = true
     name = 'Home'
     url = '/'
     weight = 1
+
+  [[menu.main]]
+    identifier = 'admin'
+    name = 'Admin'
+    url = '/admin'
+    weight = 4

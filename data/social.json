@@ -2,18 +2,19 @@
   "links": [
     {
       "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "url": "https://twitter.com/aadyasharma29",
       "image": "images/social/twitter.svg"
     },
     {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
-      "image": "images/social/github.svg"
+      "name": "behance",
+      "url": "https://www.behance.net/aadyasharma4",
+      "image": "images/social/behance.svg"
     },
     {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://www.linkedin.com/in/aadya-sharma-638208221/",
       "image": "images/social/linkedin.svg"
     }
+    
   ]
 }
