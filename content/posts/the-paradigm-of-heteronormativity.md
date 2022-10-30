@@ -1,6 +1,6 @@
 ---
 title: The Paradigm of Heteronormativity
-date: 2022-02-27T18:30:04.236Z
+date: 2022-10-09T18:30:04.236Z
 description: "New Delhi: Heteronormativity is the assumption that everyone is
   straight and that romantic and sexual relationships can only exist between a
   man and a woman. It assumes that heterosexuality is the default sexual
@@ -9,13 +9,15 @@ description: "New Delhi: Heteronormativity is the assumption that everyone is
   affects the LGBTQIA+ community."
 image: /images/uploads/matt-ragland-02z1i7gv4ao-unsplash.jpg
 ---
+Aadya Sharma
+
 New Delhi: Heteronormativity is the assumption that everyone is straight and that romantic and sexual relationships can only exist between a man and a woman. It assumes that heterosexuality is the default sexual orientation and that it is the only normal way to express sexuality and romantic attraction. This assumption is incredibly harmful as it negatively affects the LGBTQIA+ community.
 
-**_Queerness as confusion._**
+***Queerness as confusion.***
 
-When members of the LGBTQIA+ come out, they are sometimes told they are going through a phase and that it will eventually pass. People may believe they are unsure of themselves or their sexuality. The idea that any sexuality that isn't heterosexuality is a phase is heteronormative since it implies that everyone is straight and anyone who isn't is just confused.
+When members of the LGBTQIA+ come out, they are sometimes told they are going through a phase and that it will eventually pass. People may believe they are unsure of themselves or their sexuality. The idea that any sexuality that isn't heterosexuaityl is a phase is heteronormative since it implies that everyone is straight and anyone who isn't is just confused.
 
-**_The Impact of Heteronormativity._**
+***The Impact of Heteronormativity.***
 
 For various reasons, the notion that being straight is the only natural way to experience sexual or romantic desire is problematic. When people only see the representation of straight couples in the media, they form the impression that not being straight is abnormal. This notion is ludicrous and untrue.
 
@@ -29,19 +31,19 @@ The absence of education and understanding regarding gender studies in schools i
 
 NCERT had introduced a Teacher-Training Manual on Transgender-Inclusive School Education earlier this year, which was removed owing to backlash. The significance and relevance of this manual remain constant. Children deserve to be taught about gender issues, queerness, and various gender identities. They should not be shielded from such themes or forced to learn about them through social media; instead, they should be taught about them in school. If these ideas had been taught in school, previous generations might not have been so prejudiced.
 
-**_It leads to poor mental health._**
+***It leads to poor mental health.***
 
 For LGBTQIA+ youth, the distinction between having a family that accepts them as they are and a family that supports them is crucial, as having a family that does not accept or support them can be a matter of life and death. Many studies show how familial and community acceptance can be vital to one's mental well-being and how the risk of depression and suicide is increased when a teenager does not feel welcomed or accepted.
 
 In addition to receiving fair treatment from their peers and families, representation is essential to good mental health. When people see themselves represented in their culture, they feel a sense of belonging. When people only see heteronormative examples of romantic relationships, it can hurt their mental health.
 
-**_It leads to bullying._**
+***It leads to bullying.***
 
 Bullying is supported by heteronormativity as it promotes a single, specific view of how people should look, behave, and think, and anyone who falls outside of that box becomes a target.
 
 When all the children in the community see is the depiction of straight people or an inaccurate representation of LGBT people, it causes them to believe that children who do not fit into that box are flawed by nature.
 
-**_It encourages discrimination._**
+***It encourages discrimination.***
 
 Despite the decriminalisation of Article 377 in 2018, the Central and State governments have failed to take any measures for the upliftment of the LGBTQ+ community. The community also failed to gain societal approval from the country's citizens.
 
@@ -53,7 +55,7 @@ When society acts as though there is only one acceptable way to be,
 
 This prevents individuals from improving and expanding the lives of those who do not fit into that paradigm. Heteronormativity encourages discrimination by establishing an exclusive community of straight, cis people.
 
-**_Widening Your Horizons._**
+***Widening Your Horizons.***
 
 Heteronormativity is a primary driving force in our society. However, as you can see, it is a problematic one that harms all people who are not straight.
 
