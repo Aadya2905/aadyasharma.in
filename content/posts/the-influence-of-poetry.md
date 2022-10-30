@@ -7,6 +7,7 @@ description: "New Delhi: Poetry is one of the most essential, powerful, and
   large audiences in various cities. It has the potential to grasp and convey
   stories powerfully; it can act as a positive outlet and allow you to express
   your feelings beautifully."
+image: /images/uploads/dsc02013.jpeg
 ---
 New Delhi: Poetry is one of the most essential, powerful, and influential artistic mediums to exist. Poems are concise enough to grab attention on platforms like Instagram and Twitter, but long enough to gather large audiences in various cities. It has the potential to grasp and convey stories powerfully; it can act as a positive outlet and allow you to express your feelings beautifully.
 
