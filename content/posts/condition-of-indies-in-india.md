@@ -1,6 +1,6 @@
 ---
 title: Condition of Indies in India
-date: 2022-02-03T18:30:26.222Z
+date: 2022-09-07T18:30:26.222Z
 description: "New Delhi: I have loved dogs since I was a child, and despite
   having a pet dog, I have always felt devoted to the dogs in my colony. Instead
   of changing my uniform when I got home from school, I would hurriedly pack
