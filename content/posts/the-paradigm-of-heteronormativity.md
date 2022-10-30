@@ -15,7 +15,7 @@ New Delhi: Heteronormativity is the assumption that everyone is straight and tha
 
 ***Queerness as confusion.***
 
-When members of the LGBTQIA+ come out, they are sometimes told they are going through a phase and that it will eventually pass. People may believe they are unsure of themselves or their sexuality. The idea that any sexuality that isn't heterosexuality is a phase is heteronormative since it implies that everyone is straight and anyone who isn't is just confused.
+When members of the LGBTQIA+ come out, they are sometimes told they are going through a phase and that it will eventually pass. People may believe they are unsure of themselves or their sexuality. The idea that any sexuality that isn't heterosexuaityl is a phase is heteronormative since it implies that everyone is straight and anyone who isn't is just confused.
 
 ***The Impact of Heteronormativity.***
 
