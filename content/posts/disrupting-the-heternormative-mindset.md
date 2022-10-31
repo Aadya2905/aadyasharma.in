@@ -1,11 +1,11 @@
 ---
 title: "Disrupting the heternormative mindset "
 date: 2022-10-30T15:28:21.491Z
-description: Gender has been a concept since the dawn of time. The purpose of
-  this article is to challenge societal gender norms and to unlearn the
-  preexisting heteronormative thinking regarding gender. An essay that one of my
-  close friends wrote served as the basis for this piece. Reading her essay gave
-  me the inspiration I needed to finally write about this.
+description: "New Delhi: Gender has been a concept since the dawn of time. The
+  purpose of this article is to challenge societal gender norms and to unlearn
+  the preexisting heteronormative thinking regarding gender. An essay that one
+  of my close friends wrote served as the basis for this piece. Reading her
+  essay gave me the inspiration I needed to finally write about this."
 image: /images/uploads/0179f122-653a-45d5-859d-d1814ef87ef2_1_105_c.jpeg
 ---
 By Aadya Sharma
