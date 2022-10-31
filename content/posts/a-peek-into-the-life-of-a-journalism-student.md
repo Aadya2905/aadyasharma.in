@@ -6,7 +6,7 @@ description: "New Delhi: The past one and a half years have shaped me into the
   been several instances when I was panic-stricken and resented my course for
   triggering me in the worst ways possible but I'm thankful for what I've
   learned thus far."
-image: /images/uploads/53c65bb0-56ae-4aa9-aa22-d5a37d177a35_1_105_c.jpeg
+image: /images/uploads/dc70afcb-257f-49df-a7d7-b0e2ca4ae624_1_105_c.jpeg
 ---
 By Aadya Sharma
 
