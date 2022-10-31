@@ -1,8 +1,9 @@
 ---
 title: Diversity in educational instutions
 date: 2022-09-20T18:30:08.477Z
-description: The need for safe spaces for people who are part of the LGBTQ+
-  community remains ever-present, especially in educational institutions.
+description: "New Delhi: The need for safe spaces for people who are part of the
+  LGBTQ+ community remains ever-present, especially in educational
+  institutions."
 image: /images/uploads/zag.jpeg
 ---
 By Aadya Sharma
