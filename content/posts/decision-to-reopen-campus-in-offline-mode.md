@@ -3,7 +3,7 @@ title: Decision to reopen Campus in offline mode
 date: 2021-12-26T18:30:00.000Z
 description: "New Delhi: Is it a good idea to reopen the university in offline
   mode with the threat of Omicron looming over our heads?"
-image: /images/uploads/56ef1909-fee7-49fd-bd3f-772eeed3a25c_1_105_c.jpeg
+image: /images/uploads/dsc02175.jpeg
 ---
 By Aadya Sharma
 
