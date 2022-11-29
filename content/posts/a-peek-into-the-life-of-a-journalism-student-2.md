@@ -7,6 +7,8 @@ description: "New Delhi: The past one and a half years have shaped me into the
   triggering me in the worst ways possible but I'm thankful for what I've
   learned thus far."
 ---
+New Delhi: The past one and a half years have shaped me into the person I am today and they helped me find a great group of friends. There have been several instances when I was panic-stricken and resented my course for triggering me in the worst ways possible but I'm thankful for what I've learned thus far.
+
  I would not have met one of the most talented photographers who believed in me and my photography, assisted me in improving my talents, and taught me nearly everything I know if I had not chosen BAJMC over English honours.
 
  BAJMC gave me more than just a friend and mentor; it also gave me self-assurance. Even though I struggle with social anxiety, it taught me how to interview people. It taught me how to edit videos and how to blend my passion for lunar photography with my love of poetry to create photo essays. 
