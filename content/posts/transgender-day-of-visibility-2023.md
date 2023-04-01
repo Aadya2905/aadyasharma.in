@@ -11,15 +11,9 @@ image: /images/uploads/colorful-aesthetic-comparison-t-chart.png
 ---
  March 31, 2023, was Transgender Day of Visibility. The purpose of this day is to honour the transgender community's resilience and accomplishments. This day is intended to honour the transgender people among us, bring attention to the challenges they experience, and campaign for greater protected rights for them to change society and empower this community, as it rightly deserves.
 
-
-
-**`      `S﻿IGNIFICANCE**                 
+**S﻿IGNIFICANCE**                 
 
  The purpose of this day is to spread awareness of the discrimination and violence that the transgender community endures daily throughout the world, to celebrate the diverse range of gender identities and expressions, and to encourage acceptance and understanding of those who identify as transgender.
-
-
-
-
 
  **HISTORY OF TRANSGENDER DAY OF VISIBILITY**
 
