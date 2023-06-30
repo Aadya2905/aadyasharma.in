@@ -1,7 +1,7 @@
 ---
 title: About
 url: about
-image: images/writer.jpeg
+image: /images/uploads/aadya.jpeg
 menu:
   main:
     name: About
