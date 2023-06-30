@@ -1,7 +1,7 @@
 ---
 title: About
 url: about
-image: images/writer.jpeg
+image: /images/uploads/photo_6088901580385531391_y-2.jpg
 menu:
   main:
     name: About
