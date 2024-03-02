@@ -8,7 +8,7 @@ image: /images/uploads/toefl-ibt.png
 ---
 TOEFL and IELTS are exams that evaluate the English proficiency of non-native speakers who want to work or study in English-speaking countries. It's vital to understand their differences before deciding which one to take.
 
-## TOEFL vs. IELTS: Overview
+### TOEFL vs. IELTS: Overview
 
 TOEFL and IELTS are exams for non-native English speakers applying to universities in English-speaking countries. They are internationally recognised teachers who focus on assessing English language proficiency.
 
@@ -26,8 +26,6 @@ During the speaking section of the TOEFL test, candidates are required to speak 
 
 You must do research and explore to understand which structure and material are most comfortable for you and respond to your strengths.
 
-
-
 ### TOEFL vs. IELTS: Tеst Format 
 
  The International English Language Testing System (IELTS) has a variety of question formats, ranging from short question types to long ones. Each question is designed to test your language skills uniquely. These formats include quick answers, mini-essays, and challenging exercises to test your vocabulary skills.
@@ -38,27 +36,21 @@ Bonus perk of TOEFL? It's entirely computer-based, meaning you avoid the nerves 
 
 Now, buckle up for a deep dive into the nitty-gritty of TOEFL and IELTS exam patterns!
 
-
-
-## ELTS vs. TOEFL Writing Section
+### ELTS vs. TOEFL Writing Section
 
 IELTS requires the candidate to address two separate writing tasks: interpreting data from diagrams in the first and developing arguments or viewpoints in the second (200–250 words each). If integrating information is challenging for you, then you can opt for IELTS instead.
 
 The TOEFL test includes a five-paragraph essay (300–350 words) for task one and condensing information from texts into a 150–225-word response for task two.
 
-
-
-## IELTS vs. TOEFL Speaking Section
+### IELTS vs. TOEFL Speaking Section
 
 The TOEFL speaking test is 16 minutes long, while the IELTS ranges from 10 to 15 minutes. A key distinction lies in both: IELTS offers you the option to take the speaking test before other sections. TOEFL records speaking through a microphone, while IELTS involves face-to-face interviews. If impromptu speaking is difficult for you, then TOEFL might be a better choice for you.
 
-
-
-## TOEFL vs. IELTS Rеading Sеction 
+### TOEFL vs. IELTS Rеading Sеction 
 
 TOEFL and IELTS both test reading comprehension. TOEFL has two passages in 35 minutes, while IELTS has three with various question formats such as gap fillings, short answers, and more.
 
-## TOEFL vs. IELTS Listening Section
+### TOEFL vs. IELTS Listening Section
 
 TOEFL and IELTS listening tests differ significantly. TOEFL relies heavily on multiple-choice questions, whereas IELTS incorporates a broader range of tasks. If multiple-choice questions pose challenges, IELTS may be more manageable. In IELTS, students answer questions during the recording, while TOEFL is based on lectures, requiring note-taking. TOEFL's listening component includes solving MCQs within a 36-minute timeframe.
 
