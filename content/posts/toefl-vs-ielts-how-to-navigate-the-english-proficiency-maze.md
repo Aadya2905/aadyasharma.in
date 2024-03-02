@@ -26,6 +26,8 @@ During the speaking section of the TOEFL test, candidates are required to speak 
 
 You must do research and explore to understand which structure and material are most comfortable for you and respond to your strengths.
 
+
+
 ### TOEFL vs. IELTS: Tеst Format 
 
  The International English Language Testing System (IELTS) has a variety of question formats, ranging from short question types to long ones. Each question is designed to test your language skills uniquely. These formats include quick answers, mini-essays, and challenging exercises to test your vocabulary skills.
@@ -49,6 +51,8 @@ The TOEFL test includes a five-paragraph essay (300–350 words) for task one an
 ## IELTS vs. TOEFL Speaking Section
 
 The TOEFL speaking test is 16 minutes long, while the IELTS ranges from 10 to 15 minutes. A key distinction lies in both: IELTS offers you the option to take the speaking test before other sections. TOEFL records speaking through a microphone, while IELTS involves face-to-face interviews. If impromptu speaking is difficult for you, then TOEFL might be a better choice for you.
+
+
 
 ## TOEFL vs. IELTS Rеading Sеction 
 
