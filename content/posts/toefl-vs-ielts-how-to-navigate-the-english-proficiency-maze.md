@@ -6,7 +6,7 @@ description: TOEFL and IELTS are exams that evaluate the English proficiency of
   It's vital to understand their differences before deciding which one to take.
 image: /images/uploads/toefl-ibt.png
 ---
-TOEFL and IELTS are exams that evaluate the English proficiency of non-native speakers who want to work or study in English-speaking countries. It's vital to understand their differences before deciding which one to take.
+New Delhi: TOEFL and IELTS are exams that evaluate the English proficiency of non-native speakers who want to work or study in English-speaking countries. It's vital to understand their differences before deciding which one to take. 
 
 ### TOEFL vs. IELTS: Overview
 
