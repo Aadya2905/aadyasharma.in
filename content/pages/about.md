@@ -7,4 +7,4 @@ menu:
     name: About
     weight: 3
 ---
-I am an avid writer and aspiring photographer and journalist currently studying Journalism and Mass Communication at GD Goenka University. My core interests lie in the confluence of writing, mental health and gender issues.
+Aadya Sharma is a writer and photographer with a background in Journalism and Mass Communication. Her work focuses on themes of mental health, queerness, and identity, with an emphasis on providing a voice for sapphic women. Through clear, thoughtful storytelling, Aadya aims to offer the recognition and connection she once sought as a younger queer woman.
