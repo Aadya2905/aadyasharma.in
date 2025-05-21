@@ -1,7 +1,7 @@
 ---
 title: About
 url: about
-image: /images/uploads/photo_6088901580385531391_y-2.jpg
+image: /images/uploads/316f1b84-4e65-48b2-bee4-c9dff418375c.jpg
 menu:
   main:
     name: About
