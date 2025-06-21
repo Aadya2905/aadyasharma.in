@@ -5,7 +5,7 @@ description: >-
   A love letter to the dreamer in me. 
 
   Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business. When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window.
-image: /images/uploads/1.png
+image: /images/uploads/framing-luna.png
 ---
 Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business.
 
