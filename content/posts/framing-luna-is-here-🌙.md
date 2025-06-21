@@ -33,7 +33,7 @@ to the dreamer who still gets excited about decorating her walls.
 To me, photography is visual poetry, a way to bottle up light, feelings, and fleeting moments.\
 What started as a personal habit is now something I get to share: prints that can be gifted, framed, held close, or sent across the world with a note full of love.
 
-I hope you come to love Framing Luna the way I do:  intricately, gently, and ardently.
+I hope you come to love Framing Luna the way I do: intricately, gently, and ardently.
 
 With love,\
 Aadya\
