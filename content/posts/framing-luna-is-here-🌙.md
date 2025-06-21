@@ -7,24 +7,15 @@ description: >-
   Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business. When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window.
 image: /images/uploads/framing-luna.png
 ---
-Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business.
+Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business. When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window.
 
-When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window.
+What began as a creative outlet has now grown into something rooted in everything I love: photography, memory-keeping, writing, and the moon. Growing up, I collected postcards, scribbled little notes to my friends, and covered my walls in posters that felt like windows into my heart, gateways to the parts of me I didn’t yet have words for.
 
-What began as a creative outlet has now grown into something rooted in everything I love: photography, memory-keeping, writing, and the moon.
+Today, I get to create those very keepsakes: postcards and mini-posters crafted from my photography. It feels like a childhood dream gently unfolding into reality.
 
-Growing up, I collected postcards, scribbled little notes to my friends, and covered my walls in posters that felt like windows into my heart, gateways to the parts of me I didn’t yet have words for.
+Two months ago, I decided to pour real intention into this, to turn my creative outlet into a brand. I spent hours talking to family members who guided me with love and wisdom. I challenged myself in new ways and stepped into roles I never imagined younger me could take on.
 
-\
-Today, I get to create those very keepsakes: postcards and mini-posters crafted from my photography.\
-It feels like a childhood dream gently unfolding into reality.
-
-Two months ago, I decided to pour real intention into this, to turn my creative outlet into a brand.\
-I spent hours talking to family members who guided me with love and wisdom. I challenged myself in new ways and stepped into roles I never imagined younger me could take on.
-
-Framing Luna is not just a business. It’s a love letter to my younger self, my current self, my future self, and to you. It’s me gently offering my heart so you can share it with yourself or those you hold close.
-
-Each piece I create holds fragments of me and echoes of the people I love and admire.
+Framing Luna is not just a business. It’s a love letter to my younger self, my current self, my future self, and to you. It’s me gently offering my heart so you can share it with yourself or those you hold close. Each piece I create holds fragments of me and echoes of the people I love and admire.
 
 Whether it’s a postcard adorned with a poem, a mini-poster blooming with flowers, or a quiet moment under the moon, there’s a little of everyone I carry with me in everything I make.
 
