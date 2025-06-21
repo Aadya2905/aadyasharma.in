@@ -9,7 +9,7 @@ description: >
   everything in me. From the colours and fonts to the stamps, packaging,
   stickers, and designs, every single detail holds my heart.
 ---
-I can’t believe it’s been two months since I turned my childhood love for collecting postcards, decorating my walls with posters, photographing the moon, and writing little love notes to my people into a brand.Framing Luna is so much more than a small business; it’s a love letter — one I’ve written with everything in me.
+New Delhi: I can’t believe it’s been two months since I turned my childhood love for collecting postcards, decorating my walls with posters, photographing the moon, and writing little love notes to my people into a brand. Framing Luna is so much more than a small business; it’s a love letter — one I’ve written with everything in me.
 
 From the colours and fonts to the stamps, packaging, stickers, and designs, every single detail holds my heart. But Framing Luna doesn’t just carry my love, it carries the love of every single person who’s helped me bring it to life.
 
