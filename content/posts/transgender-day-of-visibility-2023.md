@@ -9,7 +9,7 @@ description:  March 31, 2023, was Transgender Day of Visibility. The purpose of
   community, as it rightly deserves.
 image: /images/uploads/colorful-aesthetic-comparison-t-chart.png
 ---
- March 31, 2023, was Transgender Day of Visibility. The purpose of this day is to honour the transgender community's resilience and accomplishments. This day is intended to honour the transgender people among us, bring attention to the challenges they experience, and campaign for greater protected rights for them to change society and empower this community, as it rightly deserves.
+New Delhi: March 31, 2023, was Transgender Day of Visibility. The purpose of this day is to honour the transgender community's resilience and accomplishments. This day is intended to honour the transgender people among us, bring attention to the challenges they experience, and campaign for greater protected rights for them to change society and empower this community, as it rightly deserves.
 
 **S﻿IGNIFICANCE**                 
 
