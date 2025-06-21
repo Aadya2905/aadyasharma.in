@@ -51,27 +51,13 @@ Putting up stalls at Depot 48, The Lalit, and Social Dehradun felt like I was li
 
 People came up to me, complimented my work, and resonated with it. And now, I feel like I’m thriving. I’m living a dream I never dared to speak aloud.
 
-He would be proud of me.The confidence I carry today – it’s because of him. He taught me never to give up. And I didn’t.
+He would be proud of me. The confidence I carry today – it’s because of him. He taught me never to give up. And I didn’t.
 
 One of the most beautiful moments was when I invited my mum, my brother, and my aunt to my stall at Depot 48, and my aunt showed up with her mother, her best friend, and her best friend’s daughter. I could’ve cried. I probably did a little on the inside.
 
-My family, including my grandmother, was there.
+My family, including my grandmother, was there. At a Pride event. At my stall. My friends and family were  there to support me; my people were there.
 
-At a Pride event.
-
-At my stall.
-
-My friends and family were there to support me.
-
-My friends were there.
-
-My family was there.
-
-My people were there.
-
-In that moment, it felt like my life had come full circle.
-
-In the softest, most beautiful way. 
+In that moment, it felt like my life had come full circle. In the softest, most beautiful way. 
 
 15-year-old me wouldn’t have dared to dream of this.
 
