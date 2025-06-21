@@ -7,7 +7,7 @@ description: >-
   Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business. When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window.
 image: /images/uploads/framing-luna.png
 ---
-Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business. When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window.
+New Delhi: Framing Luna has been in the pipeline for the longest time. What started as a mere photography account is now a full-fledged small business. When it finally came to life, it arrived at the most perfect moment, like moonlight slipping in through a half-open window. 
 
 What began as a creative outlet has now grown into something rooted in everything I love: photography, memory-keeping, writing, and the moon. Growing up, I collected postcards, scribbled little notes to my friends, and covered my walls in posters that felt like windows into my heart, gateways to the parts of me I didn’t yet have words for.
 
