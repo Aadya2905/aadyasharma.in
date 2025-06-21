@@ -1,7 +1,7 @@
 ---
 title: How Far Love Has Carried Me:Two Months of Framing Luna
 date: 2025-06-21T06:33:10.102Z
-description: >+
+description: >
   I can’t believe it’s been two months since I turned my childhood love for
   collecting postcards, decorating my walls with posters, photographing the
   moon, and writing little love notes to my people into a brand. Framing Luna is
@@ -9,17 +9,11 @@ description: >+
   everything in me. From the colours and fonts to the stamps, packaging,
   stickers, and designs, every single detail holds my heart.
 ---
-I can’t believe it’s been two months since I turned my childhood love for collecting postcards, decorating my walls with posters, photographing the moon, and writing little love notes to my people into a brand.
+I can’t believe it’s been two months since I turned my childhood love for collecting postcards, decorating my walls with posters, photographing the moon, and writing little love notes to my people into a brand.Framing Luna is so much more than a small business; it’s a love letter — one I’ve written with everything in me.
 
-Framing Luna is so much more than a small business; it’s a love letter — one I’ve written with everything in me.
+From the colours and fonts to the stamps, packaging, stickers, and designs, every single detail holds my heart. But Framing Luna doesn’t just carry my love, it carries the love of every single person who’s helped me bring it to life.
 
-From the colours and fonts to the stamps, packaging, stickers, and designs, every single detail holds my heart.
-
-But Framing Luna doesn’t just carry my love,
-
-It carries the love of every single person who’s helped me bring it to life.
-
-the ones who sat through endless design drafts with me,
+The ones who sat through endless design drafts with me,
 
 who stayed on video calls while I created new artwork,
 
@@ -47,45 +41,19 @@ To my cousin sisters, who didn’t just give me their vote of confidence but als
 
 To my dad, who gave me his quiet nod of approval and passed on his camera, his eye, and his love for storytelling.
 
-I started photography because of him.
+I started photography because of him. I learnt to love forests and flowers because of him. My art is laced with the way he saw the world. There are entire albums of his, filled with people he loved. That’s where it began.
 
-I learnt to love forests and flowers because of him.
+A month ago, I was crying on the stairs, telling my aunt how he’ll never get to see Framing Luna flourish, and she hugged me and said, “Your small business will be so successful, it’ll become huge.”
 
-My art is laced with the way he saw the world.
+At that moment, I felt held. Even as I was processing the loss of my father, I had a support system. Their belief in me, in this dream, led me to pop-ups at Depot 48, The Lalit, and Social.
 
-There are entire albums of his, filled with people he loved.
+Putting up stalls at Depot 48, The Lalit, and Social Dehradun felt like I was living a dream, not reality. It feels surreal – the events I once visited every year, the queer artists I used to buy from; now, I’m one of them.
 
-That’s where it began.
+People came up to me, complimented my work, and resonated with it. And now, I feel like I’m thriving. I’m living a dream I never dared to speak aloud.
 
-A month ago, I was crying on the stairs, telling my aunt how he’ll never get to see Framing Luna flourish, and she hugged me and said,
+He would be proud of me.The confidence I carry today – it’s because of him. He taught me never to give up. And I didn’t.
 
-“Your small business will be so successful, it’ll become huge.”
-
-At that moment, I felt held. Even as I was processing the loss of my father, I had a support system.
-
-Their belief in me, in this dream, led me to pop-ups at Depot 48, The Lalit, and Social.
-
-Putting up stalls at Depot 48, The Lalit, and Social Dehradun felt like I was living a dream, not reality.
-
-It feels surreal – the events I once visited every year, the queer artists I used to buy from; now, I’m one of them.
-
-People came up to me, complimented my work, and resonated with it.
-
-And now, I feel like I’m thriving. I’m living a dream I never dared to speak aloud.
-
-He would be proud of me.
-
-The confidence I carry today – it’s because of him.
-
-He taught me never to give up.
-
-And I didn’t.
-
-One of the most beautiful moments was when I invited my mum, my brother, and my aunt to my stall at Depot 48, and my aunt showed up with her mother, her best friend, and her best friend’s daughter.
-
-I could’ve cried.
-
-I probably did a little on the inside.
+One of the most beautiful moments was when I invited my mum, my brother, and my aunt to my stall at Depot 48, and my aunt showed up with her mother, her best friend, and her best friend’s daughter. I could’ve cried. I probably did a little on the inside.
 
 My family, including my grandmother, was there.
 
