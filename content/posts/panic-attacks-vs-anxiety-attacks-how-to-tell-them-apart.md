@@ -40,14 +40,15 @@ That said, it’s also important to note: not everyone who experiences a panic a
 
 ## Panic Attacks vs. Anxiety Attacks: Key Differences
 
-### Impact
+### Impact:
 
-* Panic Attacks: Extremely disruptive, often sudden and marked by intense physical symptoms.
-* Anxiety Attacks: Also disruptive, but may range from mild to severe. They tend to build up gradually and are generally less intense, but can still significantly impair day-to-day functioning.
+***Panic Attacks:*** Extremely disruptive, often sudden and marked by intense physical symptoms.
 
-##### **S﻿ymptoms**
+***Anxiety Attacks:*** Also disruptive, but may range from mild to severe. They tend to build up gradually and are generally less intense, but can still significantly impair day-to-day functioning.
 
-***Panic Attack Symptoms***
+### **S﻿ymptoms**
+
+**Panic Attack Symptoms**
 
 * Dizziness or lightheadedness
 * Excessive sweating
@@ -60,7 +61,7 @@ That said, it’s also important to note: not everyone who experiences a panic a
 * Feeling detached from oneself (depersonalisation)
 * A sense of impending doom or fear of dying
 
-***Anxiety Attack Symptoms***
+**Anxiety Attack Symptoms**
 
 * Muscle tension
 * Sleep disturbances
@@ -69,11 +70,9 @@ That said, it’s also important to note: not everyone who experiences a panic a
 * Restlessness
 * Irritability
 
+## Conclusion
 
-
-#### Conclusion
-
-Understanding the difference between panic attacks and anxiety attacks isn’t just about definitions; it’s about recognising what your body and mind are trying to tell you. For years, I didn’t know there was a difference. I just knew something felt wrong, and I didn’t have the words to explain it. Learning the language of my mental health—naming it, understanding it—was one of the first steps toward healing.
+Understanding the difference between panic attacks and anxiety attacks isn’t just about definitions; it’s about recognising what your body and mind are trying to tell you. For years, I didn’t know there was a difference. I just knew something felt wrong, and I didn’t have the words to explain it. Learning the language of my mental health:naming it, understanding it, was one of the first steps toward healing.  
 
 Whether you’ve experienced one panic attack or live with chronic anxiety, know this: you’re not weak, and you’re not alone. What you feel is real, and it matters. The more we talk about mental health, the more we break down shame and misinformation. The more we share, the less alone someone else might feel in their struggle.
 
