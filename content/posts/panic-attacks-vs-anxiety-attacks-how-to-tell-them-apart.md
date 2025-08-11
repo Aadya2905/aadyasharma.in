@@ -46,7 +46,7 @@ That said, it’s also important to note: not everyone who experiences a panic a
 
 ***Anxiety Attacks:*** Also disruptive, but may range from mild to severe. They tend to build up gradually and are generally less intense, but can still significantly impair day-to-day functioning.
 
-### **S﻿ymptoms**
+## S﻿ymptoms
 
 **Panic Attack Symptoms**
 
