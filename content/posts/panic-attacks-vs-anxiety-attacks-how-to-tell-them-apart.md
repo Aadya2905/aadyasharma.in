@@ -8,6 +8,7 @@ description: "New Delhi: As someone who has lived with panic and anxiety for
   between the two—until high school. I often talk about how these episodes
   affect my day-to-day life, how they make certain situations feel heavier,
   harder. But I’ve never written about it. Until now."
+image: /images/uploads/how-are-you-feeling.png
 ---
 New Delhi: As someone who has lived with panic and anxiety for most of her life, I felt it was finally time to write about it. I’ve experienced panic attacks and chest-aching anxiety for as long as I can remember, but I didn’t fully understand what they were—or how to differentiate between the two—until high school. I often talk about how these episodes affect my day-to-day life, how they make certain situations feel heavier, harder. But I’ve never written about it. Until now.
 
@@ -42,9 +43,9 @@ That said, it’s also important to note: not everyone who experiences a panic a
 ### Impact
 
 * Panic Attacks: Extremely disruptive, often sudden and marked by intense physical symptoms.
-* Anxiety Attacks: Also disruptive, but may range from mild to severe. They tend to build up gradually and are generally less intense, but can still significantly impair day-to-day functioning
+* Anxiety Attacks: Also disruptive, but may range from mild to severe. They tend to build up gradually and are generally less intense, but can still significantly impair day-to-day functioning.
 
-###### **S﻿ymptoms**
+##### **S﻿ymptoms**
 
 ***Panic Attack Symptoms***
 
@@ -68,7 +69,9 @@ That said, it’s also important to note: not everyone who experiences a panic a
 * Restlessness
 * Irritability
 
-###### Conclusion
+
+
+#### Conclusion
 
 Understanding the difference between panic attacks and anxiety attacks isn’t just about definitions; it’s about recognising what your body and mind are trying to tell you. For years, I didn’t know there was a difference. I just knew something felt wrong, and I didn’t have the words to explain it. Learning the language of my mental health—naming it, understanding it—was one of the first steps toward healing.
 
