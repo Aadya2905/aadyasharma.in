@@ -1,7 +1,7 @@
 ---
 title: " A Voice for the Voiceless: My Heartbreak and Hope Amid the Supreme
   Court’s Stray Dog Order"
-date: 2025-08-21T20:37:32.087Z
+date: 2025-08-21T21:06:20.337Z
 description: "New Delhi: I have been anxiously signing and sharing petitions,
   creating reels, and posting Instagram stories to raise awareness about the
   Supreme Court’s order regarding stray dogs. For those who don’t know, on
